@@ -1,6 +1,6 @@
-# DSA_ZXC
+# LeetCode Submissions :)
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Topics
 ## Array
 |  |
 | ------- |
