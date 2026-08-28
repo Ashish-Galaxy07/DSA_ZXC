@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0061-rotate-list) |
 ## Design
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
