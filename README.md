@@ -15,6 +15,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
