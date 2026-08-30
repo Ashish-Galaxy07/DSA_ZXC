@@ -15,6 +15,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0061-rotate-list) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
