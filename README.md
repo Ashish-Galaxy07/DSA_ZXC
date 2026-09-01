@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0724-find-pivot-index) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## String
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
 | ------- |
