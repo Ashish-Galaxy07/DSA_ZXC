@@ -63,6 +63,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -81,6 +82,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 ## Greedy
