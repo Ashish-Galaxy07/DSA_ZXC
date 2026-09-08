@@ -10,6 +10,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
+| [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0061-rotate-list) |
+| [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 ## Design
 |  |
 | ------- |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
+| [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -113,4 +117,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0232-implement-queue-using-stacks) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
