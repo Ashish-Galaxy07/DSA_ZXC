@@ -1,6 +1,6 @@
 # LeetCode Submissions :)
 <!---LeetCode Topics Start-->
-# LeetCode Topics 
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -107,6 +107,7 @@
 ## Math
 |  |
 | ------- |
+| [3870-count-commas-in-range](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bracket Sequences
