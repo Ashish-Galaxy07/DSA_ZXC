@@ -12,6 +12,7 @@
 | [0724-find-pivot-index](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
+| [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3875-construct-uniform-parity-array-i) |
@@ -26,6 +27,7 @@
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0771-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 ## Trie
 |  |
@@ -39,6 +41,7 @@
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0771-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
