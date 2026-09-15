@@ -28,6 +28,7 @@
 | [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 ## Trie
 |  |
@@ -103,6 +104,7 @@
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
