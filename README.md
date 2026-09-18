@@ -9,6 +9,7 @@
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
+| [0605-can-place-flowers](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Monotonic Stack
