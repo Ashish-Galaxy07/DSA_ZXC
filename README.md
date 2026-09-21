@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0724-find-pivot-index) |
@@ -45,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
