@@ -34,6 +34,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -116,6 +118,7 @@
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
