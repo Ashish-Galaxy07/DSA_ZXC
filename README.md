@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0232-implement-queue-using-stacks) |
@@ -162,6 +163,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -175,10 +177,12 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
