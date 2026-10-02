@@ -10,6 +10,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
@@ -119,6 +120,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -135,6 +137,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
