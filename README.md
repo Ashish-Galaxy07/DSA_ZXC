@@ -121,6 +121,7 @@
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0503-next-greater-element-ii) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -170,6 +171,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0145-binary-tree-postorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -192,4 +194,5 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0145-binary-tree-postorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
