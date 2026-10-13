@@ -178,12 +178,14 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0938-range-sum-of-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0226-invert-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0226-invert-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -212,6 +215,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0226-invert-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
