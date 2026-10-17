@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
+| [1603-design-parking-system](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1603-design-parking-system) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -98,6 +99,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
+| [1603-design-parking-system](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1603-design-parking-system) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 ## Stack
