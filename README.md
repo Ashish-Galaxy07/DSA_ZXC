@@ -18,6 +18,7 @@
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3875-construct-uniform-parity-array-i) |
