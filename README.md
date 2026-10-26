@@ -20,6 +20,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -36,6 +37,7 @@
 | [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
@@ -55,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -69,6 +72,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
 | [1603-design-parking-system](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1603-design-parking-system) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -84,6 +88,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
