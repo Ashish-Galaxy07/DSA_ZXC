@@ -24,6 +24,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
@@ -163,6 +164,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3875-construct-uniform-parity-array-i) |
