@@ -41,6 +41,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1859-sorting-the-sentence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1859-sorting-the-sentence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
@@ -71,6 +72,7 @@
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
+| [1859-sorting-the-sentence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -259,4 +261,8 @@
 | [0112-path-sum](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0965-univalued-binary-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
