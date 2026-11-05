@@ -20,6 +20,7 @@
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -72,6 +73,7 @@
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
@@ -101,6 +103,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0061-rotate-list) |
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Design
@@ -214,6 +217,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0938-range-sum-of-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
