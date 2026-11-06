@@ -23,6 +23,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -269,4 +270,8 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1859-sorting-the-sentence) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
