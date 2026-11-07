@@ -205,6 +205,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -235,6 +236,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0872-leaf-similar-trees) |
@@ -252,6 +254,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0938-range-sum-of-bst) |
@@ -274,4 +277,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1672-richest-customer-wealth) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
