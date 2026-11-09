@@ -169,6 +169,7 @@
 | [0268-missing-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2469-convert-the-temperature](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3870-count-commas-in-range) |
