@@ -166,6 +166,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -282,4 +283,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0543-diameter-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
