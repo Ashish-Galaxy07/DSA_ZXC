@@ -44,6 +44,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1859-sorting-the-sentence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1859-sorting-the-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1603-design-parking-system) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 ## Stack
