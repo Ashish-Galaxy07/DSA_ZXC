@@ -17,6 +17,7 @@
 | [0605-can-place-flowers](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0929-unique-email-addresses) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
