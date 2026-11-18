@@ -48,6 +48,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
