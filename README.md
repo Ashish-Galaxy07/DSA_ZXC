@@ -26,6 +26,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +80,7 @@
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1859-sorting-the-sentence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0605-can-place-flowers](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
