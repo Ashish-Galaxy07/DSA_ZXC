@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0198-house-robber](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0303-range-sum-query-immutable) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
