@@ -39,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0091-decode-ways) |
 | [0389-find-the-difference](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0746-min-cost-climbing-stairs) |
