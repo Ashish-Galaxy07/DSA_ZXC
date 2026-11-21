@@ -179,6 +179,7 @@
 | [0268-missing-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -305,10 +306,12 @@
 | [0198-house-robber](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Lifting
 |  |
 | ------- |
