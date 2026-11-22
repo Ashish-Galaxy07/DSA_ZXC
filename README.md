@@ -25,6 +25,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1646-get-maximum-in-generated-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1603-design-parking-system) |
+| [1646-get-maximum-in-generated-array](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/1646-get-maximum-in-generated-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Ashish-Galaxy07/DSA_ZXC/tree/master/3174-clear-digits) |
